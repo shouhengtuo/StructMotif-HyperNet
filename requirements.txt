@@ -1,0 +1,11 @@
+Bio==1.8.0
+biopython==1.82
+dgl==2.2.1
+matplotlib==3.8.4
+numpy==2.3.1
+pandas==1.5.3
+rdkit==2024.9.6
+scikit_learn==1.7.0
+scipy==1.16.0
+torch==2.1.1+cu118
+torch_geometric==2.6.1
